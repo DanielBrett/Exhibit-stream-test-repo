@@ -13,5 +13,8 @@ This is more text
 This is more text
 This is more text
 
+[This is a link](www.google.ca)
+
+
 ## Header 2
 ### Header size 3
