@@ -13,7 +13,7 @@ This is more text
 This is more text
 This is more text
 
-[This is a link](www.google.ca)
+[This is a link](https://danielbrett.github.io/Exhibit-stream-test-repo/)
 
 
 ## Header 2
